@@ -1,0 +1,117 @@
+/* Reset CSS */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+/*Main*/
+.main {
+  padding: 5rem;
+  font-family: "Poppins", sans-serif;
+  padding-bottom:0;
+}
+
+.listcontainer {
+  display: flex;
+  justify-content: center;
+}
+
+/*Header*/
+
+.Header {
+  margin: 0;
+  height: 210px;
+}
+
+.botonContactanos {
+  border: transparent;
+}
+
+.botonAyuda {
+  border: transparent;
+}
+
+.cardHome{
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.link-img-container {
+  display: flex;
+  justify-content: center;
+  place-items: center;
+}
+
+.card-img-top {
+  width: 275px;
+}
+
+/* ItemListContainer */
+
+.divDetalle {
+  margin-top: 10rem;
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  color: black;
+}
+
+.tituloCardDetail {
+  font-size: 2, 5rem;
+}
+
+.descripcionCardDetail {
+  font-size: 1rem;
+}
+
+.precioCardDetail {
+  font-size: 2rem;
+}
+
+/*ItemCount*/
+.btnAgregar,.btnFinalizar{
+  margin-top:1rem;
+}
+
+/*NavBar*/
+
+.titulo{
+  color: black;
+  margin: 0;
+  font-size: 1.5rem;
+  text-decoration:none;
+}
+
+.categories {
+  display:flex;
+  justify-content: center;
+}
+
+.nav-item{
+  padding-right: 2rem;
+}
+
+.categories a {
+  text-decoration: none;
+  color: #212529;
+}
+
+.categories a:hover {
+  color: #898b0e;
+}
+
+.d-flex {
+  display: flex;
+}
+
+/*Footer*/
+
+.footer{
+  display:flex;
+  justify-content: space-around;
+
+}

@@ -1,0 +1,191 @@
+[
+  {
+    "id":1,
+    "Nombre":"Fuente Gamemax 450w",
+    "Precio": 15999,
+    "Categoria":"Fuentes",
+    "Imagen":"https://i.ibb.co/J7fbLj8/compragamer-Imganen-general-36341-Fuente-Gamemax-450-W-VP-450-78-EF-12-CM-Fan-C-Cable2-d5eee39c-med.jpg",
+    "Stock":10,
+    "Descripcion":"Fuente Gamemax 450W VP-450 78% EF 12CM Fan C/Cable2"
+  },
+  {
+    "id":2,
+    "Nombre":"Fuente Corsair 550w",
+    "Precio":26450,
+    "Categoria":"Fuentes",
+    "Imagen":"https://i.ibb.co/sy96bJ2/compragamer-Imganen-general-36311-Fuente-Corsair-550-W-CV550-80-Plus-Bronze-OEM-8f4d73b3-med.jpg",
+    "Stock":10,
+    "Descripcion":"Fuente Corsair 550W CV550 80 Plus Bronze OEM"
+  },
+  {
+    "id":3,
+    "Nombre":"Fuente ASUS ROG STRIX 1000w",
+    "Precio":82960,
+    "Categoria":"Fuentes",
+    "Imagen":"https://i.ibb.co/pj4PZdN/compragamer-Imganen-general-33006-Fuente-ASUS-ROG-STRIX-1000-W-80-Plus-Gold-Full-Modular-1000-G-8c2a.jpg",
+    "Stock":10,
+    "Descripcion":"Fuente ASUS ROG STRIX 1000W 80 Plus Gold Full Modular 1000G"
+  },
+  {
+    "id":4,
+    "Nombre":"Gabinete Kolink Inspire",
+    "Precio":25700,
+    "Categoria":"Gabinetes",
+    "Imagen":"https://i.ibb.co/QHDRRwJ/compragamer-Imganen-general-19517-Gabinete-Deepcool-MATREXX-70-ADD-RGB-3-F-aa3299c1-med.jpg",
+    "Stock":10,
+    "Descripcion":"Gabinete Kolink Inspire K3 RGB M-ATX Vidrio Templado"
+  },
+  {
+    "id":5,
+    "Nombre":"Gabinete Deepcool",
+    "Precio":57000,
+    "Categoria":"Gabinetes",
+    "Imagen":"https://i.ibb.co/dkfjY1Y/compragamer-Imganen-general-34567-Gabinete-Kolink-Inspire-K3-RGB-M-ATX-Vidrio-Templado-7306ef99-med.jpg",
+    "Stock":10,
+    "Descripcion":"Gabinete Deepcool MATREXX 70 ADD-RGB 3F"
+  },
+  {
+    "id":6,
+    "Nombre":"Gabinete Antec Torque",
+    "Precio":298200,
+    "Categoria":"Gabinetes",
+    "Imagen":"https://i.ibb.co/nPM2hhm/compragamer-Imganen-general-35554-Gabinete-Antec-Torque-Black-White-ARGB-Vidrio-Templado-759da859-me.jpg",
+    "Stock":10,
+    "Descripcion":"Gabinete Antec Torque Black/White ARGB Vidrio Templado"
+  },
+  {
+    "id":7,
+    "Nombre":"Memoria Corsair DDR4 16GB",
+    "Precio":41530,
+    "Categoria":"Memorias RAM",
+    "Imagen":"https://i.ibb.co/F4qLyq5/compragamer-Imganen-general-9535-Memoria-Corsair-DDR4-16-GB-2x8-GB-3200-MHz-Vengeance-LPX-Black-c80b.jpg",
+    "Stock":10,
+    "Descripcion":"Memoria Corsair DDR4 16GB (2x8GB) 3200MHz Vengeance LPX Black"
+  },
+  {
+    "id":8,
+    "Nombre":"Memoria Patriot Viper DDR4 16GB",
+    "Precio":70900,
+    "Categoria":"Memorias RAM",
+    "Imagen":"https://i.ibb.co/ZT7McQb/compragamer-Imganen-general-30294-Memoria-Patriot-Viper-DDR4-16-GB-2x8-GB-4000-Mhz-Blackout-Cl19-20c.jpg",
+    "Stock":10,
+    "Descripcion":"Memoria Patriot Viper DDR4 16GB (2x8GB) 4000Mhz Blackout Cl19"
+  },
+  {
+    "id":9,
+    "Nombre":"Memoria Team DDR4 16GB",
+    "Precio":48000,
+    "Categoria":"Memorias RAM",
+    "Imagen":"https://i.ibb.co/HdPCLxv/compragamer-Imganen-general-34063-Memoria-Team-DDR4-16-GB-2x8-GB-3600-MHz-T-Force-Delta-Black-RGB-CL.jpg",
+    "Stock":10,
+    "Descripcion":"Memoria Team DDR4 16GB (2x8GB) 3600MHz T-Force Delta Black RGB CL14"
+  },
+  {
+    "id":10,
+    "Nombre":"Mother ASUS ROG STRIX",
+    "Precio":184400,
+    "Categoria":"Motherboards",
+    "Imagen":"https://i.ibb.co/1bdJCrh/compragamer-Imganen-general-24404-Mother-ASUS-ROG-STRIX-B550-XE-Gaming-Wifi-AM4-0daa3ca3-med.jpg",
+    "Stock":10,
+    "Descripcion":"Mother ASUS ROG STRIX B550-XE Gaming Wifi AM4"
+  },
+  {
+    "id":11,
+    "Nombre":"Mother ASUS TUF B450M",
+    "Precio":64050,
+    "Categoria":"Motherboards",
+    "Imagen":"https://i.ibb.co/Csb8zLP/compragamer-Imganen-general-21972-Mother-ASUS-TUF-B450-M-PLUS-II-AM4-f445a9d2-med.jpg",
+    "Stock":10,
+    "Descripcion":"Mother ASUS TUF B450M-PLUS II AM4"
+  },
+  {
+    "id":12,
+    "Nombre":"Mother ASUS ROG STRIX X570-E",
+    "Precio":210900,
+    "Categoria":"Motherboards",
+    "Imagen":"https://i.ibb.co/brfCkTT/compragamer-Imganen-general-31319-Mother-ASUS-ROG-STRIX-X570-E-WIFI-II-a1517f8f-med.jpg",
+    "Stock":10,
+    "Descripcion":"Mother ASUS ROG STRIX X570-E WIFI II "
+  },
+  {
+    "id":13,
+    "Nombre":"Placa de Video XFX RX 6700",
+    "Precio":220550,
+    "Categoria":"Placas De Video",
+    "Imagen":"https://i.ibb.co/HqFVvWw/compragamer-Imganen-general-26448-Placa-de-Video-XFX-Radeon-RX-6700-XT-CORE-12-GB-GDDR6-SWFT-309-a7c.jpg",
+    "Stock":10,
+    "Descripcion":"Placa de Video XFX Radeon RX 6700 XT CORE 12GB GDDR6 SWFT 309"
+  },
+  {
+    "id":14,
+    "Nombre":"Placa de Video Zotac 3090",
+    "Precio":435400,
+    "Categoria":"Placas De Video",
+    "Imagen":"https://i.ibb.co/6B5tyTV/compragamer-Imganen-general-35150-Placa-de-Video-Zotac-Ge-Force-RTX-3090-24-GB-GDDR6-X-Trinity-89a4d.jpg",
+    "Stock":10,
+    "Descripcion":"Placa de Video Zotac GeForce RTX 3090 24GB GDDR6X Trinity"
+  },
+  {
+    "id":15,
+    "Nombre":"Placa de Video ASUS GTX 1660",
+    "Precio":204900,
+    "Categoria":"Placas De Video",
+    "Imagen":"https://i.ibb.co/grj97z2/compragamer-Imganen-general-35211-Placa-de-Video-ASUS-Ge-Force-GTX-1660-SUPER-6-GB-GDDR6-OC-TUF-91e6.jpg",
+    "Stock":10,
+    "Descripcion":"Placa de Video ASUS GeForce GTX 1660 SUPER 6GB GDDR6 OC TUF"
+  },
+  {
+    "id":16,
+    "Nombre":"Cooler CPU Be Quiet!",
+    "Precio":50100,
+    "Categoria":"Coolers",
+    "Imagen":"https://i.ibb.co/tPtYNqq/compragamer-Imganen-general-30232-Cooler-CPU-Be-quiet-PURE-LOOP-360-1d345c7c-med.jpg",
+    "Stock":10,
+    "Descripcion":"Cooler CPU Be quiet! PURE LOOP 360"
+  },
+  {
+    "id":17,
+    "Nombre":"Cooler CPU Cooler Master",
+    "Precio":25250,
+    "Categoria":"Coolers",
+    "Imagen":"https://i.ibb.co/WKdvrF1/compragamer-Imganen-general-36174-Cooler-CPU-Cooler-Master-Hyper-212-ARGB-65b95432-med.jpg",
+    "Stock":10,
+    "Descripcion":"Cooler CPU Cooler Master Hyper 212 ARGB*"
+  },
+  {
+    "id":18,
+    "Nombre":"Cooler CPU Silverstone",
+    "Precio":38800,
+    "Categoria":"Coolers",
+    "Imagen":"https://i.ibb.co/jhHzLt4/compragamer-Imganen-general-36119-Cooler-CPU-Silverstone-PF240-ARGB-V2-Water-Cooling-9f3b6b51-med.jpg",
+    "Stock":10,
+    "Descripcion":"Cooler CPU Silverstone PF240 ARGB V2 Water Cooling"
+  },
+  {
+    "id":19,
+    "Nombre":"Procesador AMD Ryzen 5 5600G",
+    "Precio":113999,
+    "Categoria":"Procesadores",
+    "Imagen":"https://i.ibb.co/3F425HF/compragamer-Imganen-general-27675-Procesador-AMD-Ryzen-5-5600-G-4-4-GHz-Turbo-Wraith-Stealth-Cooler.jpg",
+    "Stock":10,
+    "Descripcion":"Procesador AMD Ryzen 5 5600G 4.4GHz Turbo + Wraith Stealth Cooler"
+  },
+  {
+    "id":20,
+    "Nombre":"Procesador AMD Ryzen 9 7900",
+    "Precio":271100,
+    "Categoria":"Procesadores",
+    "Imagen":"https://i.ibb.co/h7kpv2W/compragamer-Imganen-general-22302-Procesador-AMD-Ryzen-9-5950-X-4-9-GHz-Turbo-AM4-No-incluye-Cooler.jpg",
+    "Stock":10,
+    "Descripcion":"Procesador AMD Ryzen 9 7900 5.4GHz Turbo AM5 + AMD Wraith Prism"
+  },
+  {
+    "id":21,
+    "Nombre":"Procesador AMD Ryzen 9 5950X",
+    "Precio":395000,
+    "Categoria":"Procesadores",
+    "Imagen":"https://i.ibb.co/WPQvfQn/compragamer-Imganen-general-36318-Procesador-AMD-Ryzen-9-7900-5-4-GHz-Turbo-AM5-AMD-Wraith-Prism-039.jpg",
+    "Stock":10,
+    "Descripcion":"Procesador AMD Ryzen 9 5950X 4.9GHz Turbo AM4 - No incluye Cooler"
+  }
+]
